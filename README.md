@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RANDOM-CLONING+FREE)](https://git.io/typing-svg)
 
 
-* `rm -rf RANDOM-CLONING`
+* `rm -rf RANDOM-CLONING-`
 
 * `git clone https://github.com/MR-META-404-CYBER/RANDOM-CLONING-.git`
 
-* `cd RANDOM-CLONING`
+* `cd RANDOM-CLONING-`
 
 * `python MR-MERA.py`
 
